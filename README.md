@@ -13,3 +13,5 @@ Run the Command: npm run seed
 
 Start the server: npm run dev
 
+or : nodemon index.js
+
