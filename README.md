@@ -1,4 +1,4 @@
-# Node.js + Express.js project
+# Node.js + Express.js app
 
 ## installation and setup
 Clone this repository: git clone <repository_url>
